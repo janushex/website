@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Komentarze do: Actually, you can	</title>
-	<atom:link href="/2018/09/07/ego-quoque/feed/" rel="self" type="application/rss+xml" />
-	<link>/2018/09/07/ego-quoque/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description>Mobile games portfolio</description>
 	<lastBuildDate>Fri, 07 Sep 2018 11:07:13 +0000</lastBuildDate>
 	<sy:updatePeriod>

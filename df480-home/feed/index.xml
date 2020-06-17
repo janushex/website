@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Komentarze do: Home	</title>
-	<atom:link href="/df480-home/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
 	<description>Mobile games portfolio</description>
 	<lastBuildDate>Wed, 17 Jun 2020 20:27:31 +0000</lastBuildDate>
 	<sy:updatePeriod>
