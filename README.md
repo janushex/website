@@ -1,5 +1,6 @@
 # Dungeon Cube website
 Testing option of wordpress + export to static -> hosted on GitHub Pages.
+**Check out my [Result page](https://janushex.com/)!**
 
 ### How to create website in wordpress and host it on GitHub Pages like I did?
 1. Install XAMPP (if you are using Windows; install MAMP if you use Mac) and Wordpress or your PC. [How to install XAMPP and Wordpress (pl)](https://blog.lh.pl/jak-zainstalowac-wordpressa-na-swoim-komputerze-xampp/).
@@ -18,7 +19,8 @@ Testing option of wordpress + export to static -> hosted on GitHub Pages.
 
 ### How to connect your domain with GitHub pages?
 
-Simply add four A, ALIAS, or ANAME records in your registrator DNS settings:
+1. Go to your GitHub repo Settings, scroll down to GitHub Pages and enter your domain.
+2. Go to your domain registrator DNS settings and simply add four A, ALIAS, or ANAME records:
 
 ```markdown
 185.199.108.153
