@@ -2,7 +2,7 @@
 Testing option of wordpress + export to static -> hosted on GitHub Pages.
 **Check out my [Result page](https://janushex.com/)!**
 
-### How to create website in wordpress and host it on GitHub Pages like I did?
+### How to create static website in wordpress and host it on GitHub Pages like I did?
 1. Install XAMPP (if you are using Windows; install MAMP if you use Mac) and Wordpress or your PC. [How to install XAMPP and Wordpress (pl)](https://blog.lh.pl/jak-zainstalowac-wordpressa-na-swoim-komputerze-xampp/).
 2. Download [this](https://github.com/grrr-amsterdam/simply-static) fork of _Simply Static_ plugin and put its directory in c:\xampp\htdocs\wordpress\wp-content\plugins\ (if you are using Windows and followed default installation). Unfortunatelly original _Simply Static_ plugin is not compatible with PHP 7.3 used in latest Wordpress version.
 3. When XAMPP (Apache + MySQL) is launched on your PC, go to [http://127.0.0.1/wordpress/wp-admin/](http://127.0.0.1/wordpress/wp-admin/) and create a Wordpress site on your local PC. You can use this [Guide](https://websitesetup.org/), from Step #4. 
