@@ -12,7 +12,7 @@ Testing option of wordpress + export to static -> hosted on GitHub Pages.
 	- Delivery Method = Local Directory
 	- Local Directory = path to your local directory with just cloned git repository
 6. Go to Generate of _Simply Static_ plugin and press Generate Static Pages button. After some time they should be ready. 
-7. Go to the output Local Directory and check it that site works fine offline. If so, you can commit and push changes to your GitHub repo.
+7. Go to the output Local Directory and check if that site works fine offline. If so, you can commit and push changes to your GitHub repo.
 8. Go to Settings of your GitHub repo, scroll down to GitHub Pages and enable that option. 
 
 **Congratulations! You have just published static wordpress site on GitHub Pages!**
