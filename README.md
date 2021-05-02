@@ -31,4 +31,4 @@ Testing option of wordpress + export to static -> hosted on GitHub Pages.
 
 Then give it some time (several minutes to 24h) to propagate that DNS update and that's it!
 
-If you have troubles with that you can check out [GitHub Pages documentation](https://help.github.com/en/github/working-with-github-pages/managing-a-custom-domain-for-your-github-pages-site#configuring-an-apex-domain) or this lady [Guide for OVH registrator](https://da-sha1.me/configuration/2019/03/03/redirect-custom-domain-to-github-pages.html).
+If you have troubles with that you can check out [GitHub Pages documentation](https://help.github.com/en/github/working-with-github-pages/managing-a-custom-domain-for-your-github-pages-site#configuring-an-apex-domain) or this [Guide for OVH registrator](https://da-sha1.me/configuration/2019/03/03/redirect-custom-domain-to-github-pages.html).
